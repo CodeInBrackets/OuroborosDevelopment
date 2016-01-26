@@ -2,7 +2,7 @@
 Current developers not only write code, they change their hat in daily basis to provide yet a long set of skill. Lets review them and share a bit of the knowledge we have.
 
 ###Disclaimer
-All ideas expressed within these pages are my personal opinion and experience. They should not be taken in any way as representing any other person, organisation, or entity. Some of this opinions can and will change over time based on experience.
+All concepts expressed within these pages are written from my own experience. They should not be taken in any way as representing any other person, organization, or entity. Some of this practices will change over time due new tooling or practices.
 
 ###Licensing
 
