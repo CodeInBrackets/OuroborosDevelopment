@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* The Design
 * The Coding
+* The Design
 * The Tooling
 
