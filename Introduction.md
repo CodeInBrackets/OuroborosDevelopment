@@ -13,5 +13,5 @@ After the previous statement you might be thinking right now this is 'yet anothe
 
 #**Lean, Agile  and all that stuff**
 
-I am sure that at this moment this words are not anymore something unknow or new. 
+I am sure that at this moment this words are not anymore something unknow or new. But i feel day by day they lose their meaning. Now there is a certification for absolutely everything. And certifications for sure is not what the definers and creators of all this where thinking about .
 
