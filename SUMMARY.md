@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Readme](README.md)
 * [Introduction](Introduction.md)
 * The Coding
 * The Design
