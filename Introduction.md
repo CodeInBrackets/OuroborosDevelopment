@@ -6,3 +6,13 @@ Some of you will recall this quote, some others wont. The attribution of it is f
 
 Wrtting a book and developing software have a lot of common things during their entire lifecicle. At the beginning we are flooded with ideas that make us unable to take a decition on what to focus on. When you finally manage to start you need to work hard for it put your fingers on the keyboard and let your imagination fly. The crisis of getting stuck will arrive you want it or not. And at the end your satisfaction will come by the enjoyment of others and not of yourself.
 
+But what does it take to really do the entire development of your ideas that are still in an etherial form. What are the tools that we have to bring them to live. I am sure we all know the words Architecture, Code, Integracion, Requirements, and a long list of etceteras. But what are they for? are they of any use? are they all applayable?.
+
+You might be thinking right now if this is 'yet another book about startups'. Is not my intention there are really greats book related to that out on the market. I want to focus in what is expected from us now adays. Because we all hear about full stack development. But this is just the tip of the iceberg full stack development is not half of what is expected today in companies from a developer.
+After the previous statements you might be thinking if i am going to yet write another book on how to 
+
+
+#**Lean, Agile  and all that stuff**
+
+So yes we all
+
