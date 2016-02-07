@@ -10,10 +10,11 @@ The answer is as simple as a capital NO. Lean and Agile cannnot be mastered as i
 
 The project adapt to the team? shouldnt it be the oppositte?. Again capital NO!. The project is just a set of instructions that a machine will understand, the team is the living thigs that defines it. They will define how they want to work and interactuate.here is where all the practices that are part of agile come into play. The thing to take in count this should be like going to the supermarket, the team should cherry pick the tools they want to use.
 
-In my First job experience i was amazed how in the office I used to work there where a set of 8 or 9 projects. From this projects at least 2 of us had good results. The most interesting thing was that our practices seemed to be completly opposite. When they used to do design workshops we where just doing constant code reviews.
+In my First job experience i was amazed how in the office I used to work there where a set of 8 or 9 projects. From this projects at least 2 of us had good results. The most interesting thing was that our practices seemed to be completly opposite. When they used to do design workshops we where just doing constant code reviews. We used to do continuely mockups to show to clients they did their implementation directly. There where more differences but the thing is in both teams we fould our practices, this allowed us to be productive. Non of this 2 teams had anyone certified in any of the Agile practices, and we work correctly. 
 
------
+Some other projects had people that had gone to expensive trainnigs to learn Scrum and they where certified. Their teams where using all the practices that existed and they learned in the trainings. This didnt bring a real improvement on the producitivity of those teams. Why? Just simple, practices are not * one size fits all*.
 
-There cant be anything worst happeining to a practice that wants to be mutable than getting a certification. As per it loses his flexibility.
-Now there is a certification for absolutely everything. And certifications for sure is not what the definers and creators of all this where thinking about.
+This is one thing that people that get a certification tend to forget quite easily. Not by pushing someone to use a tool will mean that this tool will make this person perform better. Most of the time is not an issue of training, is an issue of not fiting the team.
+
+Having this in mind what are the diferent tools we can find and we can test in our teams to improve our productivity.
 
