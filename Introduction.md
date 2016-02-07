@@ -23,7 +23,7 @@ The answer is as simple as a capital NO. Lean and Agile cannnot be mastered as i
 
 The project adapt to the team? shouldnt it be the oppositte?. Again capital NO!. The project is just a set of instructions that a machine will understand, the team is the living thigs that defines it. They will define how they want to work and interactuate.here is where all the practices that are part of agile come into play. The thing to take in count this should be like going to the supermarket, the team should cherry pick the tools they want to use.
 
-In my First job experience i was amazed how in the office I used to work there where a set of 8 or 9 projects. From this projects at least 2 of us had good results. The most interesting thing was that our practices seemed to be completly opposite. When they used to do design workshops we where just doing constant code reviews
+In my First job experience i was amazed how in the office I used to work there where a set of 8 or 9 projects. From this projects at least 2 of us had good results. The most interesting thing was that our practices seemed to be completly opposite. When they used to do design workshops we where just doing constant code reviews.
 
 -----
 
