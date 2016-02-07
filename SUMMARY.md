@@ -5,4 +5,5 @@
 * The Coding
 * The Design
 * The Tooling
+* The Managment
 
