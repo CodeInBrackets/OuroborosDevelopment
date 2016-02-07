@@ -5,5 +5,5 @@
 * The Coding
 * The Design
 * The Tooling
-* The Managment
+* [The Managment](the_managment.md)
 
