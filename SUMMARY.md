@@ -1,6 +1,7 @@
 # Summary
 
 * [Readme](README.md)
-* [Introduction](Introduction.md)
-* [The Managment](the_managment.md)
+* [Introduction](chapters/Introduccion/Introduction.md)
+* The Managment
+    * [Lean, Agile  and all that...](chapters/Management/Lean-Agile-and-all-that.md)
 
