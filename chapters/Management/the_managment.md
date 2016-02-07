@@ -1,4 +1,4 @@
-#**Lean, Agile  and all that nice words**
+#**Lean, Agile  and all that...**
 
 I am sure that at this moment this words are not anymore something unknow or new. But i feel day by day they lose their meaning.
 
