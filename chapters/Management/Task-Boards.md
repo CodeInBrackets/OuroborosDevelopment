@@ -6,7 +6,7 @@ This boards have probably a few different names, based on the methodology that y
 
 My general opinion yet again is that they are not so different and the thing that they differ in very small concepts. This small concepts are again things that we should meditate inside our teams to see if to use them or not.
 
-Lets go step by step and analize the elements that we can use, this will allow you to cherrypick the ones usefull for your purposes.
+Lets go step by step and analize the elements that we can use. This will allow you to know the must have and what you can actually cherrypick from for your purposes.
 
 ##**The Esentials**
 
@@ -15,3 +15,7 @@ Lets go step by step and analize the elements that we can use, this will allow y
 ###**The Cards**
 
 ##**The Extra Flavour**
+###**The Definition of Done**
+###**The Max Bandwith**
+###**The Card Clasification**
+###**The Multiboards**
