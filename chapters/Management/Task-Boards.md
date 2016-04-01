@@ -8,10 +8,12 @@ My general opinion yet again is that they are not so different and the thing tha
 
 Lets go step by step and analize the elements that we can use. This will allow you to know the must have and what you can actually cherrypick from for your purposes.
 
-##**The Esentials**
+##**The Must Have**
 
 ###**The Board**
+ This is just a placeholder for all the information that you are going to evaluate, to make your project succesful and move forward. By itself it doesnt have any meaning or functionality. So lets move forward to the more interesting essentials.
 ###**The Columns**
+
 ###**The Cards**
 
 ##**The Extra Flavour**
